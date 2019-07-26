@@ -1,0 +1,23 @@
+{
+  "name": "EMPACKjs",
+  "version": "1.0.0",
+  "description": "EMPACK electromagnetic numerical computing package in NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/savannahz123/EMPACKjs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/savannahz123/EMPACKjs/issues"
+  },
+  "homepage": "https://github.com/savannahz123/EMPACKjs#readme",
+  "dependencies": {
+    "blasjs": "^1.0.13"
+  }
+}
